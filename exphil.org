@@ -1,0 +1,938 @@
+* info om kurset
+  - http://bibtexuio.wordpress.com/ om tex på uio, spes med bibtex
+  - helst gå på forelesning før man kommer på uketimene
+  - orginaltekstene vil være fokus på seminarene
+  - 2 tester, en etter filosofi og vitenskapshistorie 
+    og en etter etikk
+* filosofi og vitenskapshistorie
+** Platon 
+   Menon - engelsk med forord
+   http://www.gutenberg.org/cache/epub/1643/pg1643.txt
+
+   staten - engelsk med forord
+   http://www.gutenberg.org/files/1497/1497-h/1497-h.htm
+   s. 15-56 og 187-209
+
+
+*** Staten
+**** Egeninteresse hos ledere
+    - han kritiserer også ledernes egeninteresse, da lederne har mulighet
+    til å sette seg selv forran statens interesse.
+
+    - Sokrates setter frem mot egeninteresse at lederne må ha felleseie.
+    hvor lederne bor i et slags kollektiv hvor de ikke har egne eiendeler.
+**** Utdannelse for ledere
+    - Platon har et problem med ledernes kompetanse, kanskje det ikke
+    er de som er best til å lede som faktisk leder.
+
+    - Sokrates setter frem i staten et forslag til hvordan løse
+    kompetanseproblemene, - kan minne om hvordan politikkkritikken
+    foregår i dag -, nemlig et utdannelsessystem for ledere.
+
+    Systemet som foreslås er veldig omfattende og varer frem til man er
+    ca 50 år, herunder er fag som filosofi, gymnastikk og lignende, samt
+    utføre arbeidsoppgaver under utdannelse. En god leder er for Sokrates
+    en filosof, det rasjonelle mennesket, som da vil bli plukket ut med
+    tanken om at de som tenker klarest vil være det beste lederne.
+
+    Det medfører også at man vil få beste mann til arbeidene, om man viser
+    stort talent for fysisk aktivitet, er god med dyr osv vil man gjerne bli
+    arbeider/bonde, mens om man er en god bueskytter eller viser talent for
+    krigerske aktiviteter vil man bli soldat.
+
+    Kvinner skal også inn under dette systemet, da man vil ha et så bredt
+    grunnlag som overhodet mulig når man tenker på hvem som skal bli ledere
+    osv. Det å bare la halvparten av befolkningen få utdanning, vil være
+    som å bare trene halvparten av kroppen og la den andre forfaller. Om
+    det viser seg at kvinner kan være gode filosofer og ledere bør de bli det.
+    Og om de ikke vil være gode ledere så vil de jo falle fra utdannelsen
+    og bli noe annet, han ser ikke problemet med å gi muligheten, da det bare
+    gagne staten.
+
+    hvordan er det med vokterne i dyreriket, buhundene, er det slik at tispene
+    bare holder seg hjemme med barn og avler, og hannhundene vokter?
+    Nei, det viser seg at begge deler på vokterrollen, dette fordi tispene
+    får vokter"utdannelse" i flokken. Vi kan ikke vite om kvinner kan være
+    flinke til noe, uten å gi de utdanningen til å bevise seg en vei eller
+    en annen.
+
+    Ja, det er forskjell mellom menn og kvinner i athen, dette fordi de ikke
+    har samme utgangspunkt til å hevde seg. Gleukon ser poengene, men han får
+    "kalde føtter" mtp idèen til sokrates. Skal man la kvinner lære bueskyting,
+    eller drive gymnastikk på samme måten som menn? Og prøver å latterliggjøre
+    sokrates' argumenter, Sokrates mener at latterliggjøring ikke er et argument
+    da gymnastikken når den ble innført også var latterlig, men _nå_ er det
+    helt normalt. Og man kan ikke bruke fortiden til å definere fremtiden, da
+    må man komme med argumenter som er gjeldene.
+
+    Et argument som selv Sokrates ser som et godt argument er at om menn og
+    kvinner har forskjellig natur (samme som om filosofer er gode ledere, men
+    ikke alle mennesker er filosofisk anlagt), vil det være naturlig at de har
+    forskjellig natur. Men det kan jo være forskjeller som viser seg fordi
+    kvinner ikke har udannelsen nå, og dette må undersøkes. Men ja det er en
+    naturlig forskjell mellom menn og kvinner, menn kan ikke føde og amme, det
+    kan kvinner. Spørsmålet her er om disse kvalitetene har konsekvenser for
+    våre egenskaper. Skal faktumet at man kan føde påvirke evnen til å tenke?
+    Intelligens er fordelt uavhengig av kjønn.
+
+    Det finnes naturlige forskjeller mellom menn, noen menn har mye hår, andre
+    har ikke hår i det hele tatt. Har dette noe med egenskapene mannen har,
+    vil en mann med hår være en bedre skomaker enn en mann uten hår? Disse
+    biologiske forskjellene trekker sokrates inn som et parabel til forskjellene
+    mellom kvinner og menn.
+
+    Tenk hvor mye uro det vil være i lederklassen om kvinner skal inn der?
+    spør glukon, det vil bli kaos mellom kjønnene mtp kjærlighet, sex, barn
+    osv.
+
+    Sokrates' argumentasjon tilbake er en familiepolitikk kvinner må være
+    felles, og barn må være felles. Langvarige monogame forhold truer evnene
+    dine til å tenke på felleskapet. Men, de beste må få barn med de beste,
+    for at de vil få bedre barn. Slik må myndighetene bestemme seksualiteten,
+    og ha kontrollen på barna. Barna skal dermed tas fra foreldrene ved fødsel
+    og oppdas i institusjoner, barna skal ikke kjenne sine foreldre, og foreldre
+    skal ikke vite hvem sine barn er. Dette fordi at lederklassen ikke skal
+    tenke på mine barn, men våre barn. Våre her er da alle barns beste i dette
+    systemet da man ikke vet hvem som er sine, og må dermed tenke på alle barn.
+
+
+*** spørsmål til timen   
+**** Menon
+- Hvorfor er ikke Sokrates fornøyd med at Menon gir eksempler
+  på dyder når han skal fortelle hva dyd er?
+- I diskusjonen mellom Sokrates og Menon synes Sokrates å
+  benekte at viljesvakhet forekommer. Hva er viljesvakhet,
+  og hvordan benekter Sokrates eksistensen av dette?
+- Kan vi ha viten om noe vi aldri har sett før?
+- Kan dyd læres?
+- Hva kan Platon mene med et “guddommelig lodd”
+- Hva er forskjellen mellom oppfatning, sann oppfatning og viten?
+**** Staten
+- Platon argumenterer for likestilling mellom kvinner og menn i staten.
+- Hvilke argumenter bruker han?
+- Platon argumenterer for at de tradisjonelle familiestrukturene må
+  endres. Hvilke endringer blir foreslått, og hvordan begrunnes
+  disse endringene?
+- Glaukon utrykker bekymring for hva som vil skje når de tradisjonelle
+  familiestrukturene oppløses. Hva går hans bekymring ut på?
+- På hvilken måte kan denne argumentasjonen ha relevans i dag?
+- Hva skal skje med de vanføre barna?
+
+** Aristoteles
+   Hvis det er en tenker som har gitt vektige
+   bidrag til flere store områder må man raskt
+   gå til aristoteles, som har et veldig bredt
+   spekter over sine arbeider. Vi begynner med
+   Metafysikken.
+
+   Platons Stjerneelev f. 324 d. 
+   I nærheten av Thessaloniki, og kom til Athen som
+   17-åring og ble i akademiet til platon i 20 år.
+
+   Begynte nok som en platoniker, men utviklet seg
+   etter hvert til en selvstendig tenker. 
+
+   Om platon er den første store filosof vil Aristoteles
+   definitivt være den andre. Dette mye på grunn av at
+   vi har store deler tekst overlevert fra han. Og
+   på grunn av det store spennet i hans forfatterskap.
+   Han skrev om det meste fra biologi, til kunst, musikk
+   retorikk, filosofi og etikk.
+
+   Formen som aristoteles skrev på kan ofte sammenlignes 
+   med forelesningsdokumenter skrevet for intern bruk
+   i et akademisk miljø og undervisning.
+
+*** TODO Metafysikken
+    /Hva er virkelighetens struktur og prinsipper?/
+    ``alle mennesker streber av naturen etter viten´´
+
+    Vi har en iboende trang til å lære, og øke vår viten.
+    Dette manifesterer seg spesielt i små barn som spør
+    og graver om alt, uten nødvendigvis en direkte nytteverdi
+    av informasjonen, men rett og slett ut i fra nysgjerrighet.
+    
+    Sanseevnen er det mest sentrale for å tilegne seg viten,
+    alle dyr har ihvertfall en sans, og det er denne vi
+    bruker for å lære oss nye ting.
+
+    Hukommelsen er det som gjør at vi kan sammenligne tidligere
+    sanseinntrykk med andre for å få kunnskap om noe alltid
+    skjer eller når det skjer.
+
+    Empeiria eller erfaring er det bare mennesker som har,
+    fornuften bygger ut i fra erfaring. Om noe skjer flere
+    ganger, tilsynelatende alltid, vil fornuften vår si
+    at det alltid vil skje (en hypotese), helt til vi 
+    opplever et tilfelle der noe annet enn forventet 
+    skjer og hypotesen blir motbevist.
+    
+    Betegnelsen metafysikk kommer fra tittelen på
+    dette verket. 
+
+    Fornuft og språk hører, som hos platon, intimt sammen.
+
+    Kunskap på en side og viten på den andre. 
+    Evt teknisk kunskap og teknisk viten.
+
+    Teknisk kunskap er om hvordan vi kan gripe inn i verden
+    for å forandre den. Da forandre den for våre formål.
+    Håndtverkene er klassiske eksempler på teknisk kunskap.
+    
+
+    Vitenskapelig kunskap er av en mer teoretisk form og søkes
+    da den gir oss en større grad av forståelse. Vitenskapelig
+    kunskap kan forklare den tekniske forsåelsen. Vitenskaplig 
+    er den høyeste formen for kunskap ifm akademia.
+
+    I moderne tid kan man si at informatikken er en blanding
+    mellom den tekniske kunskap og vitenskapelig kunskap.
+
+**** TODO Det finnes fire typer årsaker, 
+
+     Naturlige ting kan deles i to ting, de levende vesner, og
+     de livløse ting.
+     
+     De levende vesner er mennesker, planter, dyr osv.
+     De livløse ting er steiner, vann, fjell osv.
+
+     Forståelsen av liv er mer kompleks enn forståelsen av
+     livløshet. 
+
+***** TODO form 
+      Mennesket har menneskets form.
+      sjimpansen har sjimpansens form.
+      /DAT LOGIC/
+***** TODO stoff
+      Om en sten faller til bakken og det treffer bakken og 
+      knuser er dette fordi kraften det treffer bakken men
+      også hvor hardt stoffet stenen er laget av ikke her hardt
+      nok for å holde stenen i samme form den hadde når den fallt.
+
+      Stoffet er organismens kropp.
+
+***** TODO virkeårsak
+      kausalitet?
+      Når en sten faller til bakken er det en grunn til at
+      dette skjer, for eksempel at et dyr tråkker på stenen
+      og løsner den, slik at den faller.
+***** TODO målårsak
+      utvikling med en bestemt retning. Altså et menneske utvikler
+      seg mot voksne mennesker og blir gamle for deretter å dø.
+
+*** TODO Om sjelen
+    Kunne like så godt hett "om livet"
+    Handler mye om biologiske forskjeller mellom
+    planter og dyr.
+
+    Det som kjennetegner levende vesner er at de har en sjel.
+    
+    - Det å ha sjel er å ha disse livsevnene.
+     1) De levende ting kan utsettes forandring.
+        1) Kvalitativ forandring - Et eple kan skifte farge fra 
+	   grønt, til rødt og til sist brunt.
+        2) Kvantitativ forandring - et menneske starter som et lite
+	   barn og vokser til å bli et voksent menneske.
+        3) Substansiell forandring - liv og død.
+     2) Næringsopptak
+     3) Forplantning
+     4) sansning
+     5) bejær
+     6) bevegelse
+     7) fornuften
+
+    
+    Med sjel mener ikke aristoteles en bevisthet, en potet får ikke
+    dødsangst når man trekker den opp fra jorden. Men 
+*** TODO Den nikomakiske Etikk
+*** Forelesning
+    Aristoteles har hatt en veldig stor invirkning på 
+    filosofihistorien, langt mer enn platon. Mange
+    av de indelingene som aristoteles inførte brukes den
+    dag i dag.
+
+    Det er stor forskjell på Aristoteles sitt kvinnesyn
+    og platons, det er Aristoteles som har
+
+    Holistisk filosof, han er opptatt av at mennesket er en
+    del av naturen. Politikk, dyr, mennesket, astronomi, alt
+    er en del av en helhet. Der filosofene før Sokrates og
+    Platon er opptatt av mannesket, og filosofene før de var
+    hovedsakelig opptatt av naturen. Aristoteles sammensetter
+    disse temaene under ett.
+
+    Metafysikken, hva er viten, hvordan oppnå viten _epistemologi_
+
+    Om sjelen - Hva er virkelig? hva kjennetegner det virkelige? _ontologi_
+    
+    NE (Etikken) - hvordan bør mennesker leve? _moralfilosofi_
+
+    Politikken - Hvordan bør samfundet organiseres? _Politisk filosofi_
+
+    Både platon og aristoteles, i motsetning til sofistene, mener at det
+    finnes sikker viten. Mot relativistene, som mener at det ikke finnes
+    en bedre styreform enn en annen, athen gjør det på en måte, mens
+    sparta gjør det på en annen, noe som er helt greit. Det synes ikke
+    P og A, da de mener at det er noen ting som er bedre styreformer enn
+    andre.
+
+    _viten_ Uforanderlig, fast, stabilt /eidos/ Eidos er form for Aristoteles, 
+    og idè hos Platon
+    
+    _sanseverden_ foranderlig, flyktig, ustabil.
+    
+    platon sier også at det finnes en _idéverden_ det finnes en idé for menneske
+    det finnes en for blomst, dog ikke bare for fysiske objekter, men
+    abstrakte tanker som retferdighet osv. Når et barn blir født faller den ned
+    fra idéverdenen og inn i en menneskekropp i sanseverdenen. Læring er 
+    gjennerindring fra ting man har sett i idéverdenen før man ble født inn
+    i sanseverdenen.
+
+    Aristoteles tror ikke at det finnes en idéverden som man er i før man blir
+    født. Han påstår at det finnes noe i sanseverden som er fast og stabilt,
+    som menneskene kan lære av. Han kaller dette for form. I om sjelen legger
+    Aristoteles ut om sanseverdenen.
+
+    Mennesket er en substans, en rose er en substans, en katt er en substans - 
+    hvor substanser kan ha egenskaper. Substanser kan deles inn i kunstige ting
+    artefakter, og naturlige ting. Naturlige ting kan igjen deles inn i levende
+    ting og ikke-levende ting. Alle substanser kan deles inn i form og stoff.
+
+    /form/ - det karakteristiske.
+             det som definerer det til det det er.
+	     Det særegne som gir det egenskapene sine.
+	     Egenskapen.
+
+    /stoff/ - Det fysiske => det vi kan sanse
+              materialet
+	      muligheten for formen til å være formen.
+
+    Formen er stabil, egenskapene til en ting er konstant, mens
+    stoffet, materialet av det er flyktig, en øks kan lages av 
+    mye rart, men det vil fortsatt være en øks om det har de særegne 
+    egenskapene til en øks.
+
+    Hos Aristoteles er Eidos i formen, hvor hos platon er den i 
+    idéverdenen. Men hvordan får man viten ifg Aristoteles.
+
+    Aristoteles er en empirist, når vi skal få viten må det skje
+    via sansene våre. Vi får sanseinntrykk, da vi er et levende
+    vesen som har den egenskapen, vi har også muligheten til å 
+    erindre tidligere sanseinntrykk fra hukommelsen. Dette gir
+    oss erfaring. Men det å ha erfaring er ikke viten, viten
+    er et skritt videre nemlig evnen til å fortelle videre hva
+    som gjør en ting til hva altså formen.
+
+    Når vi har erfaring, kjenner vi bare til enkelttilfeller, man
+    kan se at noe skjer ofte, eller tilsynelatende alltid, men, vi
+    viten er når vi vet hvorfor dette skjer, først når vi har begrepet
+    om formen til en ting har vi viten om den. Vi samler informasjon
+    fra sanseintrykk og vil når vi har viten kunne trekke slutninger
+    om oppførsel og andre egenskaper vi ikke har sett hos ett eksempel, 
+    men som vi har viten om at er egenskaper for denne formen.
+
+**** spørsmål fra timen
+     - Hvilke relasjoner har en husholdning, 
+         og hvordan skal disse relasjonene styres?
+       Mannen er sjef, han er lederen i husholdningen, "han styrer sin
+       kvinne som en statsmann og sine barn som en konge"
+
+     - Kan slaver ha dyd?
+       ja, men ikke i stor grad
+
+     - Kan kvinner ha dyd?
+
+     - Hvordan er forskjell
+** Decartes (1596-1650)
+   Den moderne tenkningens far
+
+   Viktig filosof som bidrog mye til en rekke 
+   vitenskapelige områder: Matte, fysikk, 
+   anatomi/fysiologi, 
+
+   filosofiske som:
+   katesiske koordinater, kartesisk mekanisme, 
+   kartesisk tvil og kartesisk dualisme.
+
+   Han utpeker seg som den av de store vitenskapsmenn
+   på den tiden ved at han også er betraktet som
+   en stor filosof.
+
+   Vi vil se mer på hvordan han satte sitt preg
+   på vårt verdensbilde, vår selvforståelse og
+   plass i verden.
+
+*** Verdensbilde
+**** Det gamle bildet på verden
+     Et lite universet med jorden i sentrum,
+     ulike naturlover på jorden og på himmelen.
+     
+     At det man ser er det som eksisterer, 
+     stjernehimmelen finnes det ingenting bak.
+     
+     Grunnelementer i naturen og vitenskapet, 
+     jord, vann, ild og luft.
+
+     Mennesket og kunnskapsevnene våre er tilpasset
+     naturen. Men vi er spesifikke i forhold til andre
+     dyr. En katt har ingenting til felles fysiologisk
+     med hunder, og består av forskjellige enheter.
+     Verden er som vi oppfatter den ved daglig omgang.
+     
+     Vi er skaperverkets krone.
+     
+**** Descartes verdensbilde
+     Et utvidet univers, jorden er ikke spesiell
+     mtp de andre planetene. 
+     Naturen=materien=utstrekningen
+
+     Materie oppfører seg likt over alt, den kan
+     matematisk beregnes og beskrives. Det er ingen
+     egne naturlover for mennesker, katter, planter.
+     Men det er de samme som gjelder for alle.
+
+     Vi, altså vår sjel, eller intellekt, er uutstrakte
+     substanser hvis natur består i tenkning.
+     Cogito, ergo sum. "Jeg tenker, derfor er jeg".
+
+*** Kunnskapslære (epistemologi)
+    Rasjonalismen vs empirismen
+
+    I følge Descartes er det fornuften og ikke
+    sansene som er kilden til sikker kunnskap.
+
+    Dette er fordi sansene er villedende, det er
+    vi som oppfatter det vi sanser, ikke slik det
+    nødvendigvis er. Det er vi som synes vannet er
+    blått mens det egentlig er den fargefrekvensen 
+    som  oftest blir reflektert.
+
+    Descates er ingen stor fan av induksjon, altså 
+    empirismen der man mener at ingenting kan sies
+    uten at det er observert flere ganger. Man vil
+    la erfaringen på sikt bli vitenskap når man kan 
+    trekke de logiske slutningene fra erfaringen.
+    Vi ser at et eple faller til bakken hver gang vi
+    slipper det, og vil, når vi har sett nok ting falle,
+    kunne logisk slutte oss til hva som skjer.
+
+    Descartes er glad i deduksjonen, å finne de 
+    nødvendige logiske slutningene fra gitte premisser.
+    Analyse, og tankens kraft vil gi oss svarene. Når
+    vi fjerner strøm fra et lys vil vi kunne tenke oss
+    til at man trenger to poler som strømmen går igjennom.
+    For å finne ut av noe skal man finne hva det man skal
+    beskrives enkleste bestanddeler er, og finne ut av de
+    hver for seg, summen av bestanddelens egenskaper er 
+    forklaringen til tingen, eller nesten ihvertfall.
+
+    Man kan si at i dag, så vil begge metodene være
+    korrekte, om man empirisk finner frem til noe
+    bør man også kunne si noe om grunnene til det og
+    lage lover for hvordan dette skal fungere, mens om
+    man deduserer seg frem til noe så bør man i ettertiden
+    kunne etterprøve dette med forsøk som beviser/motbeviser
+    påstanden. Gjerne gjentatte ganger om hverandre hvis man
+    plutselig finner uventede resultater.
+
+*** Arven fra descartes
+**** Lingvistikken
+**** Subjektiviteten
+**** The mind/body problem
+*** Decartes seminar
+    1) sammensatt uoversiktlig problem
+    2) dele opp problemet i enkle innlysende deler
+    3) sette sammen de enkle problemene så vi får 
+       et sammensatt oversiktlig problem.
+    4) se over alt en gang til for å være sikker på
+       at vi ikke har utelatt noe, eller vi har feil.
+
+    Decartes bruker dette selv i den metodiske tvilen,
+    som er boka vi fokuserer på. Hva er sikker viten,
+    finnes det sikker viten i det hele tatt. Ja mener
+    Descartes, og spør "kan vi tvile på alt?" mye på
+    samme måten som Sokrates (Platon) gjør, ved at han
+    tar utgangspunkt i det han ikke er enig i og motbeviser
+    det.
+
+    Descartes mener at sansene ikke kan gi oss sikker viten
+    da sansene kan gi feil informasjon, årene når de stikkes
+    i vann ser ut som de knekker i vannspeilet, man kan føle
+    fingrene sine selv om man har amputert armen osv.
+    
+    Han er også skeptisk til de indre sansene, med de indre 
+    sansene mener han følelser, som fantomsmerter nevnt over.
+    De indre sansene innefatter også stedsfølelsen, at vi
+    er her og hører på exphil, kan ikke være en sikkerhet.
+    Dette kalles drømmeargumentet, vi må ikke stole på dette
+    da vi vet ikke om dette er en drøm, eller kanskje vi bare
+    er gale. Hvis du er sikker på at du er et gresskar betyr
+    ikke det nødvendigvis er sant.
+
+    Man kan heller ikke stole på fornuften, ikke når vi får
+    problemer som er så kompliserte at vi ikke kan med sikkerhet
+    være sikker på at slutningene våre er riktige. Vi kan dog
+    si at det finnes enkle nok problemer til at fornuften ikke tar
+    feil.
+
+    *Hypotesen om den onde ånd*
+    Hva om hele verden er falsk, at vi er fordreid av en ond ånd.
+    At 2+2 bare er 4 fordi vi er forledet til å tro det. Er alt en
+    drømmeverden?
+
+    Her gir descartes seg for dagen og legger seg, når han står opp
+    tar han en oppsumering av dagen før og innser en ting. Alt
+    han har tvilt på dagen før står fortsatt, men han innser at om
+    det finnes en ond ånd som fordreier tankene og sansene til å
+    tro at usant er sant, så finnes jeg. For om en ond ånd skal
+    fordreie et menneske, så må mennesket eksistere.
+    *cogito ergo sum*
+    Når vi først vet at vi eksisterer, som en enkel innlysende sannhet,
+    hva annet kan man finne av sannheter. Først trekker han frem 
+    idèen om det fullkomne, 
+** Humes etikk
+   Hva er kilden til våre moralske vurderinger?
+   Hume mener at kilden til våre moralske vurderinger er følelser.
+*** Fornuften i humes moral
+    *Eksempel mot hume* Hvis vi har etablert et prinsipp om at
+    overgrep mot barn er galt, da vil fornuften være den institusjonen 
+    som bestemmer hvorvidt en situasjon vil være et overgrep, og
+    dermed om det er galt.
+
+    *Hume* Det er følelsene våre som reagerer på om noe som er galt.
+    Moralen vår er en formulering av våre følelser i så måte. Vi har
+    disse følelsene fra naturens side, mennesket har en medfødt evne
+    til å føle sympati mot andre mennesker. 
+    Dette kan utvilkes og trenes opp. Hvis vi har opplevd dårlige ting
+    vil vi kunne identifisere det når det skjer mot andre og vi vil
+    ha lettere for å opptre sympatisk mot andre mennesker dette skjer 
+    med.
+    
+    1) Vi får en beskrivelse av sanseinntrykkene og observerer fakta,
+       det vi observerer kan være sant eller usant.
+    2) Deretter evaluerer vi hva vi har observert gjennom følelsene 
+       våre og føler lyst eller ulyst.
+    3) fra om vi føler lyst eller ulyst skjønner vi om det var en 
+       riktig/god handling eller en ond/uriktig handling.
+    4) Den moralske dommen fra forståelsen vår, e.g. "det var galt"/
+       "det var riktig"
+   
+    Hume mener da at man ikke kan trekke direkte slutninger fra å
+    observere hvordan ting er, til hvordan ting bør være.
+    /Dette er muligens tatt fra Lady Mary Wortley Montagu./
+
+**** Kyskhet og tilbakeholdenhet
+     Hume skiller mellom naturlige og kunstige dyder, på den ene siden
+     sier hume at vi har noen veldig gode sider. Det er naturlig for
+     oss å være vennlig mot barn, vi kan også være nestekjærlige, vi kan
+     også være upartiske når vi må og vi kan vise mildhet. 
+
+     Disse trekkene fra vår natur er positive for felleskapet, siden
+     de er gode for felleskapet og seg selv kaller Hume dette for dyder.
+
+     Men vi er jo også grådige, egoistiske og selvopptatte osv. Dette
+     er jo trekk som ikke er til felleskapets beste, dette kan vi gjøre
+     noe med. Vi må utvikle dyder som holder disse trekkene i sjakk,
+     altså kunstige/syntetiske dyder. Vi må for eksempel utvikle dyden
+     retferdighet, da vi er uretferdige. Vi må utvikle dyden renslighet
+     da fra naturens side er vi ikke renslige. Ekteskapet er en kunstig
+     institusjon da det er gunstig for samfunnet.
+
+     Kyskhet og tilbakeholdenhet for kvinner er ikke naturlige dyder,
+     men syntetiske, han antyder på noen måter med dette at kvinner
+     har sterkere seksuell drift enn menn. Dette er dyder til det
+     beste for samfunnet i form av at da vil mannen i ekteskapet være
+     sikker på at dette er hans avkom. Mannen må være sikker på at
+     det er hans barn for å ville og kunne investere så mye tid og
+     resurser delta i oppdragelsen til baret.
+ 
+     For å hindre utroskap må man straffe handlingen veldig hardt
+     gjennom lovgivningen. Man må fra tidlig i oppdragelsen også
+     oppdra jentebarn til kyskhet og tilbakeholdenhet. Men viktigst
+     av alt må man også benytte de samfunnsmessige mekanismene, for
+     eksempel sette ut rykter når det er tvil om kyskheten. Dette har
+     jo også en stygg etterklang den dag i dag ved at vi kaller 
+     promiskuøse jenter for horer. 
+
+     De syntetiske dyder skal implementeres så strengt at det kommer
+     frem som naturlige dyder, dette vil gjøre at de vil bli overholdt.
+
+     
+**** Tapperhet hos menn - motstykket til kyskhet hos kvinner
+**** notions
+     Disposisjonen til å føle med andre mennesker er i utgangspunktet
+     medfødt fra menneskets side. Om vi bruker den eller ikke kommer
+     an på om vi selv kan identifisere at dette er en vond handling,
+     eller en god handling. Hvis vi ikke skjønner at det skader, vil
+     vi ikke ha muligheten til å sympatisere fullt ut med dette.
+     
+     Mennesket vil naturlig ta vare på hverandre (godt menneskesyn)
+    
+** Imanuel Kant (1724-1804)
+   Er åpenbart en kristen filosof, med noen avvik, som man
+   kommer tilbake til. Rykte som en pendant og knusktørr type.
+   Det er sagt at man ikke kan skrive en biografi om kant, da
+   det er ment at han ikke levde. Dette kommer fra hans alderdom
+   mens den unge Kant var en sprudlende fyr, den tids dandy.
+
+   Ble kalt den galante magister i sin ungdom.
+
+   Kant er vanskelig å forstå, han skrev for et publikum som
+   var langt bedre belest enn det mange er i dag. Man må utvise
+   stor tolmodighet mens man leser stoffet som dagens leser.
+
+*** Innledning til Kant, hvorfor skrev han?
+
+**** Å redde menneskets frie vilje
+     Han var ute etter å redde menneskets frie vilje. Når vi handler,
+     praktisk ikke teoretisk, vil etterpåklokskapen bevise at den
+     frie vilje ikke alltid viser seg. Man vil ofte inse at i ettertiden
+     burde man handlet anderledes. På en måte er ting forutbestemt,
+     sommerfuglefekten, men på en annen måte vil tilfeldighetene bare
+     gjøre at vi vokse på det. Meningen med livet for kant er å bli
+     moralsk. Hvis mennesket er underlagt materien, og ikke har den
+     frie vilje, vil moralen ikke kunne eksistere - det er katastrofalt
+     for hans verdenssyn.
+
+     At mennesket er skapt av en almektig gud er problematisk for kant,
+     samtidig som han er et religiøst menneske, ihvertfall mente han at
+     han var religiøs og at gud passer inn i vitenskapen på den tid.
+
+     Han vil redde verden fra ateismen, og materialismen. Den delen av
+     kants filosofi som besto i å redde relegionen er ikke mye anskuet 
+     i moderne tid, mens hans bidrag til å skille moralen fra religionen
+     står godt i dag, og man kan si at han bidro mer til ateismen enn
+     han nok ville likt den dag i dag. 
+     
+     Tre ideer:
+     - fri vilje
+     - udødelig sjel
+     - gud
+     
+     Denne guden kan se inn i menneskets hjerter, og se potensialet til
+     mennesket, og hans frie vilje for å kunne retferdig dømme oss ved
+     dommedag.
+
+**** Å begrunne erkjennelsens objektivitet
+     Man kan lese han i ettertiden som at prøvde å fremheve mennesket
+     som en del utenom naturen.
+
+     Som en motsetning av hume, der han mener at objektivitet må eksistere
+     på et eller annet plan, Hume på sin side mener at årsak-virkning
+     er en projeksjon av våre egene sanser. Det ødelegger for all
+     objektivitet at alt er projeksjoner fra hodene våre. Kant mener at
+     dette vil ødelegge for all filosofi om moral og virkelighet.
+     Kant mener i den forstand at selv om man kanskje ikke kan si at
+     et tak er rødt, må man fortsatt ta til høyde for at det er et tak.
+
+     Som descartes' demon, er hume veldig opptatt av å kunne komme seg
+     videre fra dette. Mens Kant prøver å ta høyde for selv om demonen
+     eksisterer, må man fortsatt kunne filosofere over verden man 
+     opplever.
+
+**** Å etablere metafysikken som vitenskap
+     Vi trenger filosofien for å avgjøre spørsmål om religion, moral 
+     og etikk og så videre. For å få til dette må man etablere filosofien
+     som et vitenskap, og ikke som et tankesett. Det må være en vitenskap
+     som forutsetter bevis. Han ønsker å føre bevis slik at folk skjønner
+     at filosofien har hevet seg opp fra rotete synsing til en renere
+     filosofi.
+
+*** Kants løsning
+
+    Om å redde tanken om at vi har en fri vilje, det er en udødelig
+    sjel og at det finnes en gud. Han trekker religion bort fra vitenskap
+    og mener at religion er noe annet. Det er ikke vitenskap, men det
+    er fortsatt noe som former oss som mennesker, og dermed må det være
+    en entitet. Derfor må man betrakte det som en annen men sidestilt
+    identitet til naturen. Erfaringens domene er natur og vitenskap.
+    mens religion er objekter som eksisterer på utsiden av dette.
+    
+    Begrunne erkjennelsens objektivitet gjennom prinsipper som gjør 
+    erfaring og natur mulig (tid, som og de 12 kategoriene) Om man ikke 
+    hadde hatt dette ville naturvitenskapen vært ubrukelig.
+
+    Teoretisk fornuft - Erfaringen og dens a priori form måten vi
+    kan erkjenne og begripe naturen. Teoretisk fornuft springer ut fra
+    erfaringen. Erfaring gjøres mulig av fortiden, og det er dette som
+    gjør av vi får tilgang til naturvitenskapen, uten det kan vi ikke
+    utøve denne vitenskapen. Trancente ideer som fri vilje, udødelig
+    sjel og gud. Men dette er ikke noe vi kan bevise med de samme 
+    tankegangene som vi kan bevise naturen med, vi må bruke praktisk
+    fornuft. Vår praktiske handlingsmønster kan ikke oppsumeres i et
+    naturvitenskapelig mønster. Vi må kunne se det praktiske ved det,
+    for det praktiske med forelesninger er å høre menneskers sjel og
+    evne, som ikke bare er handlinger i seg selv.
+
+    Den viktigste formen for slike handlinger er det moralske. Den
+    moralske vurderingen, om foreleseren gjør umoralske handlinger
+    vil ikke det bare være ord, men en moralitet i det. Vi forholder
+    oss til hverandre gjennom moral, hvis vi bor sammen med andre og
+    man har ordning på hvem som vasker. Og vi finner kjøkkenet bombet
+    etter en dag, vil handlingen å unskylde seg som vaskeansvarlig
+    ved å si at man ikke kunne noe annet fordi man for eksempel var
+    predefinert til å gå på kino gjør dette alt meningsløst.
+    Vi vil bedømme personer etter fri vilje, og dette beviser det,
+    om man unskylder seg og ikke blir dømt, vil dette føre til at
+    det ikke er noen vits i å dømme eller behandle folk forskjellig ut
+    i fra handlinger. Men om vi bedømmer andre ut fra det de gjør vil 
+    de også handle ut i fra dette. Det er en begrunnelse til at den frie
+    vilje må eksistere. Vi lever i et moralsk samfunn som gjør at vi
+    vil handle ut i fra, men også bryte normer, og bli dømt fra det.
+    
+    men jo hardere man blir dømt, jo mindre vil man gjøre det.
+
+    Vi kan ikke leve med en uretferdig verden, og den eneste måten
+    å ungå dette er å kunne stole på at det er en rettferdig og dømmende
+    gud. 
+    
+*** A priori
+    A priori erkjennelse - som er Kants desidert viktigste betegnelse.
+    Den er forut for all erfaring, uavhengig av sanseinntrykk, og
+    forut for all erfaring, om man betrakter det på noen annen måte
+    kan man ikke forstå kant på en riktig måte. Forut for i denne forstand
+    må oversettes til premisser, og ikke i fortid. I en logisk og
+    tankemessig forstand og ikke den faktiske rekkefølgen av ting i tid.
+
+    Den a prioriske erkjennelsen begynner samtidig eller gir premisser
+    for vitenskapen.
+
+    "kritikken tillater overhodet ingen guddommelig 
+    skapte eller medfødte forestillinger; den antar at absolutt alle, 
+    hva enten de hører til anskuelsen eller til forstandsbegrepene, 
+    er ervervet."
+
+    Erfaring, er mer enn sansning, men en sanselig erkjennelse som
+    krever forståelse. for å få erfaring må man blande sanselig og
+    a priorisk kunnskap. Opplevelse i forhold til erfaringen av at
+    opplevelsen er fordi det er kaldt der ute, og dermed blir 
+    opplevelsen kulde ha en grunn, vi forstår det er kaldt på grunn
+    av dette. Om man er kald vil huset føles varmere enn om man var
+    varm i utgangspunktet, men forståelsen av at det er like varmt
+    kommer at sanseinntrykkene og erfaringen. Hvordan klarer mennesket
+    å forstå denne sammenhengen? Hvorfor er det ikke alltid kaldt eller
+    varmt? Hvordan får vi informasjon til å bli fornuft?
+
+    Vi må erverve de a prioriske betingelsene for å få kunnskapen
+    om verden, erfaringen. Vi ser ordene på skjermen nå som før
+    vi kunne lese, men vi kan nå forstå hva ordene betyr.
+
+    Han er opptatt av å bruke denne lærdommen til å kunne ta kontakt
+    med verden. Det er det som gjør at sansning blir erfaring.
+
+    A priori må være en nødvendighet og strengt allmengyldig.
+    Det er en betingelse for erfaring, vi kan ikke vite alt, men
+    det vil finnes a prioriske kunnskapsområder, matematikk, som
+    er evige. 
+
+    Analytiske dommer er alltid a priori, predikatet er inneholdt 
+    i subjektet
+    - enhver trekant består av tre rette linjer
+    - a = a
+    - (a + b) >= a
+    - intet ulærd menneske er lærd (tautologi)
+    - alle legemer har utstrekning
+    
+    Erfaringsdommer (usikre ting) det kan hende vi tar feil, 
+    men det er mulig vi får andre resultater en gang:
+    - Alle legemer er tunge 
+    - huset faller når fundamentet undergraves
+    - den opphetede ovnen er årsaken til at rommet er 
+      varmere enn luften ute
+
+    Syntetiske dommer a priori, de er bevist gjennom 
+    erfaring å være a priorisk:
+    
+    - matematiske dommer
+    - Naturens grunnprinsipper
+    - Moralens grunnprinsipp (det kategoriske imperativ)
+
+    For å forstå syntetiske dommer er det lett å gå til
+    matematikken. 5+7=12, noe som man vil si at dette vil
+    være erfaringsbasert til et visst anslag, men man kan
+    ikke si at det ikke er a priorisk kunnskap. Vi vil ved
+    erfaring kunne bevise at det er slik, vi vil ved aktiv
+    handling kunne vise at det ikke kan være noen annen sannhet.
+
+    1 2 3 4 5 6 7 1 2 3 4 5
+    . . . . . . . . . . . .
+    * * * * * * * - - - - -
+    1 2 3 4 5 6 7 8 9 101112
+
+    Det kan ikke være en annen måte. Punktene er en hjelpemåte
+    for oss å vise oss at det er det, punktene er relative, men
+    det er fortsatt et bevis for mengden. Syntetisk kunnskap kommer
+    fra aktivitet, ikke fra sanser, men vår egen aktivitet som vi
+    beviser.
+
+*** årsak-virkning
+    årsaksloven: "Enhver hendelse har en årsak."
+    Dette er syntetisk, begrepet om årsak-virkning føyes til begrepet
+    om en hendelse. Det er analytisk at enhver virkning har en årsak.
+    
+    Hva er en hendelse?
+    en kule som blir truffet av en annen vil gå fra å være i ro, 
+    til å rulle. Tilstandsforandring. Om vi ser det skjer, vil vi
+    bare sanse det, ikke skjønne at dette er noe som skjer med verden.
+    
+*** TODO Tese og antitese
+** Imanuel Kant - andre forelesning
+*** moralfilosofien    
+    Kant sin filosi kan på noen måter kalles en sekulær oversettelse av
+    den kristne etikken. Vi trenger å studere moralfilosofi for å ikke
+    korrumpere moralen etter våre egne interesser.
+
+    Selv om et menneske ikke lyver, trenger ikke det bety at det er et
+    godt moralsk menneske.
+
+    Den personen som handler riktig, men ikke forstår hvorfor han handler
+    riktig - vil ikke personen være moralsk aktverdig.
+
+**** moralitet - legalitet
+
+     Aktelse for moralloven - da Kant, i likhet med hume vil si at vi handler
+     ikke bare ut i fra fornuften, men spesielt ut i fra følelser. Kant 
+     forener da moral og følelser ved å si at han sier at aktelse for 
+     moralloven er en følelse som motiverer oss til handling.
+
+***** Moralitet
+
+      handling av plikt, har ekte moralsk verdi. En moralsk god
+      handling, plikten i denne formen er da samvittighet, eller plikten
+      mot egne prinsippe.
+
+      - Til dels vil vi også gjøre moralske handlinger fordi vi ser at det
+	er det moralske å gjøre, altså vi ser det gode og gjør det gode for
+	det godes skyld, altså vi er konsekvente på vårt valg, og vil ikke
+	ha muligheten til å veie egen vinning mot moralske handlinger.
+
+***** Legalitet  
+
+      handling i overenstemmelse med plikt, mangler moralsk verdi, men
+      kan være rosverdig. en moralsk riktig handling. Som å ikke stjele
+      av frykt for politiet, ikke fordi stjeling er feil for deg. 
+
+      - Vi gjør moralske handlinger til dels for egen vinning, altså det
+	gir oss fordeler i sammenhenger å snakke sant. Det er ikke moralsk
+	forsvarlig å handle slik, da det ikke har noe med vår moral, men
+	rent egoistisk.
+
+**** Notions
+
+     Et sympatisk og empatisk menneske, et godt vesen trenger ikke alltid
+     handle. Om for eksempel barna til mennesket dør, og man er i sorgen.
+     Det å da høre samvittigheten/aktelsen for moralloven si til mennesket
+     at det skal ta seg sammen, og hjelpe andre, fortsette å være moralsk.
+     Lytt til andres problemer og hjelpe de så godt man kan, selv om man
+     selv er i dyp sorg - det vil være den ytterste moralske handling ifg
+     Kant.
+
+     Eller å se et ran bli begått og pliktfølelsen sier at man bør hjelpe til
+     er dette ikke en moralsk handling. Fornuften må også kunne si sitt,
+     og man skal ikke blindt hjelpe alle, men også se situasjoner for hva
+     som vil være riktig.
+
+*** Den gode vilje
+    (god i seg selv)
+    (ubetinget god)
+    (absolutt god)
+    Bare en god vilje er god uten innskrenkning, den må være ubetinget
+    god. Bruke sine evner og kunnskaper for å gjøre godt. Dyder (fra Arist)
+    er gode når de blir brukt for det gode, uten innskrening at man bruker
+    andre evner for det vonde.
+
+    Begrepet om plikt "inneholder begrepet om den gode vilje, om enn med 
+    visse subjektive begrensninger og hindringer"
+
+    Siden menneskets praktiske fornuft ikke har "fullt herredømme over 
+    begjærevnen" må vi handle *av plikt for å ha en god vilje*
+    "Plikt er en handlings nødvendighet av aktelse for loven"
+
+    Man kan si at aktelse for loven er aktelse for den frie vilje, altså
+    vi innser at vi har et valg, og har mulighet til å gjøre begge. Men
+    vi gjør det riktige fordi vi vil bruke den frie viljen riktig.
+
+    *et kategorisk impreativ*
+    - handlingen er objektiv-nødvendig i seg slev, uten relasjon til et 
+      annet formål
+
+    - handlingen er god i seg selv, ikke som et middel til noe annet
+      man ønsker å oppnå
+    
+    - påbyr handlingen umiddelbart, uten å legge til grunn noen hensikt
+      som kan oppnås med den.
+
+**** universallovformuleringen
+     moralens øverste prinsipp
+     autonomiprinsippet
+     
+     "Jeg skal aldri handle annerledes enn slik at jeg også kan 
+     ville at min maksime skal bli en allmenn lov"
+
+     "handle bare etter den maksime gjennom hvilken du samtidig 
+     vil at den skal kunne bli en allmenn lov"
+
+     En maksime er viljens subjektive prinsipp, den grunnsetning
+     subjektet handler etter.
+
+     *tolkningsforslag til maksime fra foreleser:*
+     Den handlingsregel som uttrykker aktørens motivasjon for å 
+     nå det formål han har satt seg.
+
+**** Praktiske lover
+
+     - *Objektive prinsipper:*
+       gjelder uavhengig av den enkeltes ønsker og behov of for 
+       absolutt alle fornuftsvesener
+
+     - *A Priori:*
+       Stammer ikke fra erfaringen, men fra fornuften/viljen
+       - /streng allmenngyldighet/, gjelder for alle fornuftige vesener
+
+	 "Uten å forutsette noen betingelse hentet fra en eller annen 
+	 tilbøyelighet, *forbinder jeg hanflingen med viljen a priori*,
+	 følgelig med nødvendighet (selv om dette bare skjer objektivt,
+	 dvs i *henhold til ideen om en fornuft som ville ha hatt fullt*
+	 *herredømme over alle subjektive bevegårsaker*)" 
+	 (forelesers uthevinger)
+**** Autonomi
+     selvlovgivning.
+
+     de moralske pliktene er egne lover som man gir seg selv. Viljen er lov
+     for seg selv. Dette blir veldig i konflikt med det kristne synet på
+     at gud skaper lovene. Om det ikke er deg selv som bestemmer de moralske
+     lovene vi handler ut i fra vil man miste sin selvrespekt eller sitt
+     menneskeverd og frie vilje. 
+
+     *Kants fire eksempler på den allmenne naturlov(A.N)*
+     1) egenkjærlig selvmord - Denne maksimen er ikke innen A.N
+     2) falskt løfte - kan ikke være en naturlig lov.
+     3) forsømme utviklingen av egne evner
+	å ha vilje uten å utvikle egne evner er umulig
+     4) ikke hjelpe andre i nød
+
+     "Handle slik at du alltid bruker menneskeheten både i egen og i enhver 
+     annen person samtidig som et formål og aldri bare som et middel."
+** Imanuel Kants etikk
+   Kvinners natur kommer best til uttrykk gjennom estetikk og følelser,
+   mens menns natur kommer til uttrykk gjennom fornuften og 
+   naturvitenskapen. Menn og kvinner utfyller hverandre og har en helt
+   forskjellig natur.
+
+   Mannen er helt klart overlegen i fysisk styrke, mot og fornuftsbruk.
+   Kvinnen har en naturgave ved at hun kan beherske mannen, en makt over
+   mannen. Kvinner er fra naturens side omsorgsfulle, følsomme og
+   sarte. Og de kvinner som behersker matematikk, naturvitenskap og er
+   vel utdannede kan like så godt ta på seg et skjegg og bli fullstendig
+   menn, de vil miste sin kvinnelighet ved utdannelsen og dermed også
+   tiltrekkningskraften sin på menn.
+
+   Når kvinnen er slik som hun er, vil hun ha muligheten til å forme
+   menn til å være finere enn fra naturens side. De har en gunstig
+   virkning på mennene, og dette har en forfinende effekt på kulturen
+   og samfunnet.
+   
+   Kvinnen er jo ikke uten makt i hjemmet, de er ikke redd for huskrigen
+   og er født med veltalenhet. Mannen vil jo helst ha ro når han kommer
+   hjem fra arbeidet vil han la henne få makten over huset så lenge hun
+   ikke legger seg opp i det alvorlige arbeidet mannen gjør.
