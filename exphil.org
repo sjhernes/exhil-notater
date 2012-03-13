@@ -490,36 +490,225 @@
     Når vi først vet at vi eksisterer, som en enkel innlysende sannhet,
     hva annet kan man finne av sannheter. Først trekker han frem 
     idèen om det fullkomne, 
-** Humes etikk
-   Hva er kilden til våre moralske vurderinger?
-   Hume mener at kilden til våre moralske vurderinger er følelser.
-*** Fornuften i humes moral
-    *Eksempel mot hume* Hvis vi har etablert et prinsipp om at
-    overgrep mot barn er galt, da vil fornuften være den institusjonen 
-    som bestemmer hvorvidt en situasjon vil være et overgrep, og
-    dermed om det er galt.
-
-    *Hume* Det er følelsene våre som reagerer på om noe som er galt.
-    Moralen vår er en formulering av våre følelser i så måte. Vi har
-    disse følelsene fra naturens side, mennesket har en medfødt evne
-    til å føle sympati mot andre mennesker. 
-    Dette kan utvilkes og trenes opp. Hvis vi har opplevd dårlige ting
-    vil vi kunne identifisere det når det skjer mot andre og vi vil
-    ha lettere for å opptre sympatisk mot andre mennesker dette skjer 
-    med.
-    
-    1) Vi får en beskrivelse av sanseinntrykkene og observerer fakta,
-       det vi observerer kan være sant eller usant.
-    2) Deretter evaluerer vi hva vi har observert gjennom følelsene 
-       våre og føler lyst eller ulyst.
-    3) fra om vi føler lyst eller ulyst skjønner vi om det var en 
-       riktig/god handling eller en ond/uriktig handling.
-    4) Den moralske dommen fra forståelsen vår, e.g. "det var galt"/
-       "det var riktig"
+** Hume (1711-1776)
+   Skotsk filosof, med mange strøjobber, skrev history of England.
    
-    Hume mener da at man ikke kan trekke direkte slutninger fra å
-    observere hvordan ting er, til hvordan ting bør være.
-    /Dette er muligens tatt fra Lady Mary Wortley Montagu./
+   David Hume er en dedikert empirist, som i motsetning til bl.a. 
+   rasjonalisten descartes. Empiristene tar all sin lærdom fra
+   opplevelser og erfaringer, i motsetning til at man tenker seg
+   frem til ting uten at erfaringen trenger å ha noe med det å
+   gjøre.
+
+   Hume kan leses som en naturalist og skeptiker, i den globale
+   skeptisismen mener man at man ikke kan få kunnskap om noen 
+   ting. Da man ikke kan vite noe sikkert om noe.
+*** Hume som naturalist
+    Hume starter treaties of human nature, hans store verk han 
+    skrev når han var 27 år: "alt vi kan få kunnskap om må 
+    vi få gjennom persepsjonsapparatet". Altså vi kan bare få
+    kunnskap gjennom sansene, det er ingen annen måte vi kan
+    få kunnskap enn å oppleve det på en eller annen måte.
+
+    Han deler opp persepsjon i inntrykk og idéer.
+
+    Inntrykk er det mest livaktige og direkte i vårt sanseliv,
+    altså det vi ser, tar på og de direkte sansene. Lukt, syn,
+    følelse osv.
+
+    Idéer er det andre inntrykket vi får, vi ser en form, som 
+    kan gi oss en idé om at denne formen er et menneske, eller
+    at en genser er rød osv. Idéer er det vi jobber med 
+    intellektuelt, mens inntrykk er det vi får med en gang; 
+    uprossesert.
+
+    Idéer kan gi inntrykk, når jeg ser for meg sommerferien vil
+    jeg i meg kunne se for meg å lese en bok på stranden, det
+    sanseintrykket jeg gir meg selv er også et inntrykk lagd ut
+    i fra idéen, dette kaller han et refleksjonsintrykk, og er
+    er en annen type intrykk enn sanseinntrykkene.
+
+    Hukommelse og forestillingsevnen. Hukommelse er begrenset, man
+    kan ikke huske alt, og det trenger ikke nødvendigvis være
+    et riktig minne. Forestillingsevnen er mye friere, jeg kan 
+    ikke huske å ha sett en flyvende gris, men jeg har sett 
+    vinger og jeg har sett en gris, og idéen om disse to objektene
+    kan kobles sammen til en forestilling, om jeg også ser for
+    meg at grisen med vinger svever har jeg sett for meg en
+    flyvende gris, men jeg kan aldri huske å ha sett den. Slik
+    all skjønnlitteratur blir skapt, med kobling av idéer til
+    noe fiksjonellt.
+    
+    En relasjon som er veldig viktig for Hume er kausalitet, altså
+    aksjon reaksjon, en kule som treffer en annen kule får den 
+    andre kulen til å bevege seg. Det mekaniske verdensbildet
+    tilsier at dette er en nødvendig relasjon mellom kulene.
+    
+    Hume benekter at det finnes nødvendige relasjoner, det er
+    bare regelmessige relasjoner. Man vil etter hvert forvente
+    mer og mer at om kulene treffer hverandre så vil det oppstå
+    bevegelse i den truffede kulen, men man kan ikke si at det
+    _alltid_ vil skje. Alt kan skje til en hver tid, man vil ikke
+    forvente det, men man kan ikke ifg Humes syn si at noe helt
+    sikkert vil skje i forhold til alt annet.
+
+    Dette kan være problematisk ift vitenskapen som tross alt
+    prøver å vise oss nødvendighetene ved verden. I den form
+    kan man også se Hume som en skeptiker, når vi finner ut en
+    naturlov som viser at det er nødvendig at noe skjer, kan man
+    tolke Hume som at dette ikke er en nødvendighet.
+
+    Man kan på mange måter tenke tilbake på filmen "The Matrix"
+    eller "Inception" da man ikke nødvendigvis kan vite at det
+    man opplever eller som man alltid har vært sant viser seg å
+    bare være en drøm, eller i "The Matrix" en falsk verden.
+
+**** Induksjonsproblemet
+     Klassisk eksempel her er at man har en pose med 5 baller,
+     når man tar ut den første kulen og den er rød, den andre er
+     rød, den tredje er rød og den fjerde er rød kan man lett 
+     tenke at den siste ballen også er rød. Induksjonen sier
+     oss at det ikke er nødvendig at den siste er rød, hva om den
+     siste er blå? Man kan tenke det samme om at solen har stått
+     opp hver dag jeg kan huske, men kan jeg tolke dette som at
+     den alltid vil gjøre det i basis fra fortiden?
+
+     Apostprior kunnskap, vi kan ikke si så veldig generelt om
+     hva som vil skje, vi kan si at alle hydrogenmolekyler vi
+     har sett består av et proton og et elektron, men vi har ikke
+     sett alle hydrogenmolekyler, så vi kan ikke si at alle består
+     av dette.
+
+     Et problem for hume kan man jo også da si at er matematikk,
+     som vi på noen måter må kunne si at er sikker kunnskap. Eller
+     som i eksempelet over, om man trekker parallellene til at
+     matematikk er spesifisert av mennesket, og at betegnelsen
+     for hydrogen er spesifisert av mennesket til å være en
+     elektronpartikkel og en protonpartikkel.
+
+     Man kan spørre seg selv om Hume som naturalist kan defineres
+     som en sann skeptiker. Som problematikken rundt matematikken,
+     når han sier samtidig at man bare kan oppleve kunnskap ut
+     i fra inntrykk og at man ikke kan si at verden faktisk 
+     eksistere, da vi bare kan få noe kunnskap fra 
+     persepsjonsinntrykk.
+
+*** Humes metaetikk
+
+    Hvor ligger betettigelsen for valgene man tar? Hva er den gode
+    grunnen til at man gjør et valg. 
+
+    Hvis jeg slår en person, og han
+    spør meg hvorfor jeg slo. Og da å beskrive dette med at hånden min
+    hadde en viss fart mot personen når han sto der svarer ikke 
+    spørsmålet. Man lurer ofte på hva berettigelsen til at man slo,
+    hvorfor valgte jeg å føre hånden mot personen med den farten.
+
+    De moralske rasjonalistene vil ofte si at dette kommer fra 
+    fornuften, altså at fornuften vår tar våre valg for oss, og
+    at de er gjennomtenkte.
+
+    Hume som sentimentalist mener at all berettigelse kommer fra 
+    følelsene, altså når man gjør en god gjerning så vil man få 
+    en god følelse.
+**** Humes argumenter for sentimentalistene
+***** Første argument (forelesers tolkning)
+      Bakgrunn fra delingen mellom inntrykk og idéer, og følelser
+      og fornuften. Følelser er intrykk, mens fornuften jobber med
+      idéer. Man kan ikke si at en følelse er feil, føler jeg sinne
+      er det ikke feil eller riktig at jeg føler sinne, det er en
+      tilstand, mens fornuften kan jobbe med sannheter og falskheter.
+      Fornuften kan kanskje jobbe med en idé og forkaste den som falsk.
+
+      Vi kan anta at moralsk erkjennelse er fornufterkjennelser. så vil
+      moralsk erkjennelse bevege oss til handling. Hvis jeg ser noe
+      galt vil jeg handle deretter. Ser jeg noe riktig handler jeg 
+      kanskje anderledes.
+
+      Men sier Hume, fornuftserkjennelse kan ikke bevege oss til 
+      handling, hans begrunnelse stammer fra at fornuften jobber med
+      idéer og sannheter og falskeheter. Det man gjør med 
+      fornuftserkjennelsen er bare å tolke sanseintrykkene, så om noen
+      kaster en biljardkule mot meg vil fornuften fra sanseintrykkene
+      bare tolke at den kommer mot meg, kanskje komme frem til når
+      den vil treffe meg og at det vil gjøre vondt. Men grunnen til at
+      jeg vil dukke unna kulen er at jeg vil få en følelse av ubehag og
+      tanken om at det vil gjøre vondt vil definitivt gi meg en følelse
+      av ubehag. Hvis jeg ikke føler ubehag ved å bli truffet av kula,
+      hvorfor skal jeg dukke unna?
+
+      Det fornuften gjør er å lede oppmerksomheten mot ting, som i sin
+      tur vekker eller slukker følelser. Jeg ser en tiger og fornuften
+      i sin tur vekker oppmerksomheten mot den og jeg får en følelse av
+      at jeg bør handle for å komme meg unna. Det eneste fornuften gjør
+      er å tolke inntrykk, men man kan ikke si at fornuften alene kan
+      føre til handling, den kan bare vekke eller slukke en følelse.
+
+***** andre argument
+      Det er viktig å tenke på dette skarpe skillet mellom følelser og
+      fornuft som Hume trekker, i nåtidens psykologi er det kommet
+      mye nyere forskning på at det er vanskelig å tolke dette skillet
+      like skarpt som dette.
+
+      Moralsk erkjennelse er å komme med en dom om hva man bør gjøre.
+      Alle ideer er kopier av intrykk. Hvis du har en moralsk idé, så
+      må dette være fra et moralsk erkjennelse. Hvis jeg ser at en 
+      handling er gal, må dette være en gal handling. 
+
+      Hume sier at det ikke finnes noen korelasjon mellom et moralsk
+      inntrykk og en moralsk idé, så når jeg ved fornuften sier at en
+      handling er gal så trenger ikke dette nødvendigvis være galt.
+      Man vil aldri se det moralske, man kan ikke tolke det moralsk, 
+      men man kan føle ubehag eller behag fra det man tolker at skjer.
+      En sann _idé_ om at det er en gal handling er heller en _følelse_
+      av ubehag.
+
+      Man kan se rødt og blått, men man kan ikke se galt.
+
+**** Problematikken med hans argumenter
+
+     Deskriptiv etikk, Hume sier egentlig ikke så veldig mye mer
+     om hvordan man bør handle, men heller en beskrivelse av hvordan
+     vi handler. Dette er en motsetninge til normativ etikk som sier
+     noe om hvordan man bør handle.
+
+     Fornuften kan jo i ettertiden tolke om det man handlet var riktig
+     eller feil, men følelsen i seg selv ledet oss til handlingen uten
+     tanke på om det er riktig eller feil. Kanskje det var riktig av meg
+     å bli truffet av biljardkulen? Det fins ikke gale intrykk, de er 
+     bare inntrykk, man ser bare blod, slag osv om man ser vold, vi
+     kan deretter få en moralsk idé om dette, 
+
+*** Humes metaetikk fra seminar
+    Hva er kilden til våre moralske vurderinger?
+
+    Hume mener at kilden til våre moralske vurderinger er følelser.
+**** Fornuften i humes moral
+     *Eksempel mot hume* Hvis vi har etablert et prinsipp om at
+     overgrep mot barn er galt, da vil fornuften være den institusjonen 
+     som bestemmer hvorvidt en situasjon vil være et overgrep, og
+     dermed om det er galt.
+
+     *Hume* Det er følelsene våre som reagerer på om noe som er galt.
+     Moralen vår er en formulering av våre følelser i så måte. Vi har
+     disse følelsene fra naturens side, mennesket har en medfødt evne
+     til å føle sympati mot andre mennesker. 
+     Dette kan utvilkes og trenes opp. Hvis vi har opplevd dårlige ting
+     vil vi kunne identifisere det når det skjer mot andre og vi vil
+     ha lettere for å opptre sympatisk mot andre mennesker dette skjer 
+     med.
+     
+     1) Vi får en beskrivelse av sanseinntrykkene og observerer fakta,
+       	det vi observerer kan være sant eller usant.
+     2) Deretter evaluerer vi hva vi har observert gjennom følelsene 
+       	våre og føler lyst eller ulyst.
+     3) fra om vi føler lyst eller ulyst skjønner vi om det var en 
+       	riktig/god handling eller en ond/uriktig handling.
+     4) Den moralske dommen fra forståelsen vår, e.g. "det var galt"/
+       	"det var riktig"
+    
+     Hume mener da at man ikke kan trekke direkte slutninger fra å
+     observere hvordan ting er, til hvordan ting bør være.
+     /Dette er muligens tatt fra Lady Mary Wortley Montagu./
 
 **** Kyskhet og tilbakeholdenhet
      Hume skiller mellom naturlige og kunstige dyder, på den ene siden
@@ -777,7 +966,7 @@
     
 *** TODO Tese og antitese
 ** Imanuel Kant - andre forelesning
-*** moralfilosofien    
+*** moralfilosofien
     Kant sin filosi kan på noen måter kalles en sekulær oversettelse av
     den kristne etikken. Vi trenger å studere moralfilosofi for å ikke
     korrumpere moralen etter våre egne interesser.
@@ -806,7 +995,7 @@
 	det godes skyld, altså vi er konsekvente på vårt valg, og vil ikke
 	ha muligheten til å veie egen vinning mot moralske handlinger.
 
-***** Legalitet  
+***** Legalitet
 
       handling i overenstemmelse med plikt, mangler moralsk verdi, men
       kan være rosverdig. en moralsk riktig handling. Som å ikke stjele
@@ -853,7 +1042,7 @@
     vi gjør det riktige fordi vi vil bruke den frie viljen riktig.
 
     *et kategorisk impreativ*
-    - handlingen er objektiv-nødvendig i seg slev, uten relasjon til et 
+    - handlingen er objektiv-nødvendig i seg selv, uten relasjon til et 
       annet formål
 
     - handlingen er god i seg selv, ikke som et middel til noe annet
@@ -913,26 +1102,27 @@
 
      "Handle slik at du alltid bruker menneskeheten både i egen og i enhver 
      annen person samtidig som et formål og aldri bare som et middel."
-** Imanuel Kants etikk
-   Kvinners natur kommer best til uttrykk gjennom estetikk og følelser,
-   mens menns natur kommer til uttrykk gjennom fornuften og 
-   naturvitenskapen. Menn og kvinner utfyller hverandre og har en helt
-   forskjellig natur.
+*** Imanuel Kants kvinnesyn
+    Kvinners natur kommer best til uttrykk gjennom estetikk og følelser,
+    mens menns natur kommer til uttrykk gjennom fornuften og 
+    naturvitenskapen. Menn og kvinner utfyller hverandre og har en helt
+    forskjellig natur.
 
-   Mannen er helt klart overlegen i fysisk styrke, mot og fornuftsbruk.
-   Kvinnen har en naturgave ved at hun kan beherske mannen, en makt over
-   mannen. Kvinner er fra naturens side omsorgsfulle, følsomme og
-   sarte. Og de kvinner som behersker matematikk, naturvitenskap og er
-   vel utdannede kan like så godt ta på seg et skjegg og bli fullstendig
-   menn, de vil miste sin kvinnelighet ved utdannelsen og dermed også
-   tiltrekkningskraften sin på menn.
+    Mannen er helt klart overlegen i fysisk styrke, mot og fornuftsbruk.
+    Kvinnen har en naturgave ved at hun kan beherske mannen, en makt over
+    mannen. Kvinner er fra naturens side omsorgsfulle, følsomme og
+    sarte. Og de kvinner som behersker matematikk, naturvitenskap og er
+    vel utdannede kan like så godt ta på seg et skjegg og bli fullstendig
+    menn, de vil miste sin kvinnelighet ved utdannelsen og dermed også
+    tiltrekkningskraften sin på menn.
 
-   Når kvinnen er slik som hun er, vil hun ha muligheten til å forme
-   menn til å være finere enn fra naturens side. De har en gunstig
-   virkning på mennene, og dette har en forfinende effekt på kulturen
-   og samfunnet.
-   
-   Kvinnen er jo ikke uten makt i hjemmet, de er ikke redd for huskrigen
-   og er født med veltalenhet. Mannen vil jo helst ha ro når han kommer
-   hjem fra arbeidet vil han la henne få makten over huset så lenge hun
-   ikke legger seg opp i det alvorlige arbeidet mannen gjør.
+    Når kvinnen er slik som hun er, vil hun ha muligheten til å forme
+    menn til å være finere enn fra naturens side. De har en gunstig
+    virkning på mennene, og dette har en forfinende effekt på kulturen
+    og samfunnet.
+    
+    Kvinnen er jo ikke uten makt i hjemmet, de er ikke redd for huskrigen
+    og er født med veltalenhet. Mannen vil jo helst ha ro når han kommer
+    hjem fra arbeidet vil han la henne få makten over huset så lenge hun
+    ikke legger seg opp i det alvorlige arbeidet mannen gjør.
+
